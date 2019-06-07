@@ -1,6 +1,5 @@
-# list 정렬된 리스트
-# item 찾으려는 요소 값
-# return 찾으려는 요소의 위치
+# list 오름차순 정렬된 리스트
+# item : 찾으려는 요소 값
 def binary_search(list, item):
     low = 0
     high = len(list) - 1
