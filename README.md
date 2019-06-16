@@ -16,5 +16,7 @@ Hello Coding 알고리즘을 공부하면서 실습한 내용을 저장하는 �
     * 너비 우선 탐색
 * 06_dijkstras_algorithm
     * 다익스트라 알고리즘
-* 08_greedy_algorithms
+* 07_greedy_algorithms
     * 탐욕 알고리즘
+* 08_dynamic_programming
+    * 동적 프로그래밍
