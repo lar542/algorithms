@@ -4,6 +4,8 @@ Hello Coding 알고리즘을 공부하면서 실습한 내용을 저장하는 �
 
 * 00_practice
     * 알고리즘 풀이 내용
+* 00_data_structure
+	* 자료구조 정리
 * 01_binary_search
     * 이진 탐색
 * 02_selection_sort
